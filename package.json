@@ -1,0 +1,20 @@
+{
+  "name": "query_performance_checker",
+  "version": "1.0.0",
+  "description": "- 쿼리의 성능을 체크합니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogito1016/query_performance_checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cogito1016/query_performance_checker/issues"
+  },
+  "homepage": "https://github.com/cogito1016/query_performance_checker#readme"
+}
