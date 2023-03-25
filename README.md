@@ -2,19 +2,19 @@
 
 - Check the query performance
 
-## Guid 🧭
+## 🧭 Guid
 
 1. Set connection info to connection-config.json
 2. Set the queries to queries.json
 3. Run the application
 
-## Run 🏃‍♂️
+## 🏃‍♂️ Run
 
 ### Dev
 
 - npm run start:dev
 
-## Directory Structure
+## 🏛️ Directory Structure
 
 ### connection-setter
 
@@ -28,7 +28,7 @@
 
 - Operate the setted query
 
-## dependencies 👫
+## 👫 dependencies
 
 #### nodejs
 
