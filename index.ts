@@ -1,3 +1,3 @@
-import QueryPerformanceChecker from "./src/query-performance-checker/query-performance-checker";
+import queryPerformanceChecker from "./src/query-performance-checker";
 
-QueryPerformanceChecker();
+queryPerformanceChecker();
