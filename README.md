@@ -1,6 +1,6 @@
 # query_performance_checker
 
-- Check the Query performance
+- Check the query performance
 
 ## Run
 
@@ -38,3 +38,4 @@
 #### prettier
 
 1. npm install -D prettier
+2. Editor setting
