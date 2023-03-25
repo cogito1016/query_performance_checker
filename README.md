@@ -2,13 +2,13 @@
 
 - Check the query performance
 
-## Guid
+## Guid 🧭
 
 1. Set connection info to connection-config.json
 2. Set the queries to queries.json
 3. Run the application
 
-## Run
+## Run 🏃‍♂️
 
 ### Dev
 
@@ -28,7 +28,7 @@
 
 - Operate the setted query
 
-## 구성
+## dependencies 👫
 
 #### nodejs
 
