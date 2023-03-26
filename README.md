@@ -4,8 +4,8 @@
 
 ## 🧭 Guid
 
-1. Set connection info to connection-config.json
-2. Set the queries to queries.json
+1. Set connection info to config/.connection.env
+2. Set the queries to config/queries.json
 3. Run the application
 
 ## 🏃‍♂️ Run
