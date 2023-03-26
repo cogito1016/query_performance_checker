@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cogito1016/query_performance_checker#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "mysql": "^2.18.1"
   },
   "devDependencies": {

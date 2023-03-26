@@ -1,5 +1,9 @@
+import connection from "./connection-setter";
+
 const queryPerformanceChecker = () => {
-  console.log("test");
+  const conn = connection();
+
+  return conn;
 };
 
 export default queryPerformanceChecker;

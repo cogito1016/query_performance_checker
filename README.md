@@ -42,6 +42,10 @@
 1. npm install -D ts-node typescript nodemon @types/node
 2. tsc --init
 
+#### dotenv
+
+- npm install dotenv
+
 #### nodemon
 
 - npm install -D nodemon
