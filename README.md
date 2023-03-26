@@ -60,3 +60,15 @@
 
 1. npm install -D prettier
 2. Editor setting
+
+## ➕ etc
+
+#### how to push the only template of '.connection-config.env'
+
+###### exclude file
+
+- git update-index --assume-unchanged src/config/.connection-config.env
+
+###### inclue file
+
+- git update-index --no-assume-unchanged src/config/.connection-config.env
